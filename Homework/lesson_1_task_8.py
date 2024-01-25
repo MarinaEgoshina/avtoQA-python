@@ -1,0 +1,12 @@
+def num_x (num):
+    print(num)
+num_x(8)
+num_x(8)
+num_x(0)
+num_x(0)
+num_x(5)
+num_x(5)
+num_x(5)
+num_x(3)
+num_x(5)
+num_x(3)
