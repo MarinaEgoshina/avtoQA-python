@@ -1,8 +1,7 @@
 import math
 
 def square(sideSquare):
-    numberSide = math.ceil(sideSquare)
-    return numberSide*numberSide
+    return math.ceil(sideSquare*sideSquare)
 
-getSquare = 2.1
+getSquare = 3.8
 print("Площадь квадрата:", square(getSquare))
